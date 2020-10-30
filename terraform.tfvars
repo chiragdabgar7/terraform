@@ -1,0 +1,5 @@
+ami_id            = "ami-0947d2ba12ee1ff75"
+instance_type     = "t2.micro"
+key_name          = "aws_keypair"
+alb_name          = "my_alb"
+my_security_group = "sg-07d8b6ecca6df0a29"
